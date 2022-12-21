@@ -1,5 +1,7 @@
 # XHCI-unsupported
-Supported id
+**A fix driver for USB by RehabMan.**
+
+## Supported id
 
 `0x8cb1` for 9-series
 
@@ -18,4 +20,5 @@ Supported id
 `0x7a60` for 700-series
 
 ## Credits
-RehabMan 
+- [Apple](https://www.apple.com) for [macOS](https://www.apple.com/macos)
+- [@RehabMan](https://github.com/RehabMan)
