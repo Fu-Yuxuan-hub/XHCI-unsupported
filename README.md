@@ -23,9 +23,7 @@
 
 ### AMD Radeon RX 6000 XT
 
-`0x73a4` `0x73a6` for AMD Radeon RX 6800 XT
-
-`0x73a4` `0x73a6` for AMD Radeon RX 6900 XT
+`0x73a4` `0x73a6` for AMD Radeon RX 6000-Series
 
 ## Credits
 - [Apple](https://www.apple.com) for [macOS](https://www.apple.com/macos)
