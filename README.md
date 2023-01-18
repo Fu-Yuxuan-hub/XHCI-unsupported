@@ -3,6 +3,8 @@
 
 ## Supported id
 
+### Motherboard
+
 `0x8cb1` for 9-series
 
 `0x8d31` for X99
@@ -18,6 +20,10 @@
 `0x7ae0` for 600-series
 
 `0x7a60` for 700-series
+
+### AMD Radeon RX 6000 XT
+
+`0x73a4` `0x73a6` for AMD Radeon RX 6000-Series
 
 ## Credits
 - [Apple](https://www.apple.com) for [macOS](https://www.apple.com/macos)
